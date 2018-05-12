@@ -1,10 +1,16 @@
 _repo: Transatlantische-Reiseskizzen-und-Christopherus-Barenhauter-Erstes-Bandchen_47698
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47698-h/images/cover.jpg
 creator:
   author:
     agent_name: Sealsfield, Charles
     gutenberg_agent_id: '42662'
     url: http://www.gutenberg.org/2009/agents/42662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47698#Transatlantische-Reiseskizzen-und-Christopherus-Barenhauter-Erstes-Bandchen
 gutenberg_issued: '2014-12-18'
 gutenberg_type: Text
 identifiers:
